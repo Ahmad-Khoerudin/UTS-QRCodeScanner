@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AhmadQRcode</string>
+    <string name="Name">Nama</string>
+    <string name="Class">Kelas</string>
+    <string name="nim">NIM</string>
+    <string name="Scan_Button">Scan QR Code</string>
+    <string name="Content_nama">Ahmad Khoerudin</string>
+    <string name="Content_kelas">Pemrograman Web dan Mobile</string>
+    <string name="Content_nim">122203003</string>
+</resources>
